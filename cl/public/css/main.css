@@ -1,0 +1,13 @@
+.header-menu {
+    display: flex;
+}
+
+.menu {
+    justify-content: space-around;
+}
+
+.menu-items {
+    text-decoration: none;
+    list-style: none;
+    display: inline;
+}
