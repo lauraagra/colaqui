@@ -230,10 +230,11 @@ margin:50px 50px;
 }
 
 
+
 .cardimg2 img{
-width: 400px;
-height: 250px;
-margin-left: 10px;
+width: 300px;
+height: 120px;
+
 margin-top: 20px;
 border-radius: 20px;
 }
@@ -248,6 +249,41 @@ border-radius: 20px;
     margin-left: -10px;
 }
 
+.card-img-top2{
+    height: 150px;
+    padding: 0;
+    border-radius: 15px;
+}
+
+.card-img-overlay:hover{
+    background-color: #00000099;
+    border-radius: 15px;
+    border-top-left-radius: 26px;
+    border-top-right-radius: 26px;
+}
+
+
+.card-text2{
+    background-color: #000000;
+    border-radius: 10px;
+    color: #ffffff;
+    padding:  5px 10px;
+    font-size: 25px;
+    text-align: center;
+    
+}
+
+
+
+.card-img-overlay{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+
+.card-img-overlay a{
+ text-decoration: none;
+  }
 
 form{
     padding: 90px;
