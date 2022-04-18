@@ -11,8 +11,7 @@
 .toast{
     position: absolute;
     position: fixed;
-    margin-top: 50px;
-    margin-left: 40%;
+    margin-left: 35%;
     width: 400px;
     height: 500px;
 }
