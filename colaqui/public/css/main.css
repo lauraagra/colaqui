@@ -16,6 +16,10 @@ body{
     width: 100vw;
 
 }
+
+
+
+
 /*Start-Menu*/
 .navbar{
     background-color: transparent;
@@ -77,7 +81,7 @@ body{
 }
 
 .button_card{
-    width: 100%;
+    width: 95%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -128,6 +132,13 @@ section{
    
 }
 
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: inline-block;
+    margin-left: 10%;
+}
 
 .container h3{
     font-size: 20px;
@@ -276,7 +287,7 @@ border-radius: 20px;
     border-radius: 10px;
     color: #ffffff;
     padding:  5px 10px;
-    font-size: 25px;
+    font-size: 15px;
     text-align: center;
     
 }

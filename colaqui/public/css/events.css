@@ -8,17 +8,39 @@
 
 }
 
+.navbar{
+    background-color: #2C2C2C;
+    color: #000;
+}
+
+button{
+    color: aliceblue;
+}
+
+.navbar a{
+    transition: 1s;
+    color: #F2B705;
+}
+
+.navbar a:hover{
+    transition: 1s;
+    font-size: 19px;
+    color: #F2B705;
+}
+
 .toast{
     position: absolute;
     position: fixed;
     margin-left: 35%;
     width: 400px;
     height: 500px;
+    margin-top: -50px;
+    
 }
 
 .desc_atencao{
     background-color: #F2B705;
-    font-size: 20px;
+    font-size: 15px;
     text-align: center;
     padding: 10px;
 }
